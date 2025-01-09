@@ -136,7 +136,7 @@ Connects the ESP32 to a WiFi network using SSID and password.
 ---
 
 ## Repository
-The complete project code, circuit diagram, and documentation are available on [GitHub](https://github.com/pratikkendale/HomeAutomationESP32/blob/main/Source%20Code).
+The complete project code, circuit diagram, and documentation are available on [GitHub](https://github.com/pratikkendale/Embedded-Projects/blob/main/HomeAutomationESP32/Home_automation_IOT_1.5/Home_automation_IOT_1.5.ino).
 
 ---
 
